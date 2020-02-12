@@ -1,0 +1,23 @@
+body{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 10px;
+}
+h1{
+    font-size: 40px;
+}
+form{
+    font-size: 20px;
+}
+#first{
+    width: 25%;
+}
+#second{
+    width: 25%;
+}
+#third{
+    width: 25%;
+}
+#forth{
+    width: 25%;
+}
